@@ -136,7 +136,3 @@ python primer_filter.py \
 - Configurable **axis units** (bp / kb / Mb / Gb) and tick spacing.
 - Annotated legends mapping primers → numbers.
 
----
-
-## 👤 Author
-Developed by Roth Conrad, Ear.Bonez Studio & Genomics Research
