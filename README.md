@@ -82,6 +82,8 @@ python primer_filter.py \
   - Green bar = viable amplicon (dark = normal, light = inverted)
   - Red tick = failed primer hit
   - Numbered labels tied to primer names in legend
+ 
+![Example Output](PrimerBlast_Fusarium_odoratissimum_GCA_000260195.2_FO_II5_V1_plot.png)
 
 ---
 
