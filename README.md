@@ -136,3 +136,8 @@ python primer_filter.py \
 - Configurable **axis units** (bp / kb / Mb / Gb) and tick spacing.
 - Annotated legends mapping primers → numbers.
 
+---
+
+## 📖 Citation
+Conrad R. (2025). BLAST_primer_filter. GitHub repository. Available at: https://github.com/rotheconrad/BLAST_primer_filter
+
